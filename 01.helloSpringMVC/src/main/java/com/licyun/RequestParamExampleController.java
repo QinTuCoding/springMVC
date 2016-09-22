@@ -15,7 +15,7 @@ public class RequestParamExampleController {
         model.addAttribute("name", name);
  
         if("admin".equals(name)) {
-            model.addAttribute("email", "admin@yiibai.com");
+            model.addAttribute("email", "admin@licyun.com");
         } else{
             model.addAttribute("email", "Not set");
         }
