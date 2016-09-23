@@ -7,6 +7,6 @@
 
 ##04.[springMVC创建xml,pdf,excel,json视图解析器 根据后缀名解析对应视图](https://github.com/mzkwy/springMVC/tree/master/04.viewResolver)
 
-##05.[springMVC创建RESTFul模式的实例](https://github.com/mzkwy/springMVC/tree/master/05.restFulService)
+##05.[springMVC创建REST模式的实例](https://github.com/mzkwy/springMVC/tree/master/05.restFulService)
 
-##06.[springMVC配合AugularJS实现RESTFul格式的数据交互及表单验证](https://github.com/mzkwy/springMVC/tree/master/06.resuFulCRUD)
+##06.[springMVC配合AugularJS实现REST模式的CRUD数据交互及表单验证](https://github.com/mzkwy/springMVC/tree/master/06.resuFulCRUD)
