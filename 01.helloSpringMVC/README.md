@@ -9,7 +9,7 @@
     @RequestMapping("/hello")
     public String hello(Model model) {
 ```
-- @RequestBody       该注解用于读取Request请求的body部分数据,直接返回数据。无需匹配物理视图
+- @ResponseBody       直接返回匹配的对象。无需映射到物理视图
 ```java
     @ResponseBody
     public String authorInfo(Model model) {
@@ -29,7 +29,15 @@
 		return sections;
 	}
 ```
+- @Autowired  自动装配省略set和get方法
+```java
+UserService userService;
+```
 - @RequestParam　    在处理方法入参处使用 @RequestParam 可以把请求参 数传递给请求方法
+```java
+ public String setupForm(@RequestParam("petId") int petId, ModelMap model) {  
+        Pet pet = this.clinic.loadPet(petId);  
+```
 - @PathVariable      绑定URL 占位符到入参
 ```java
     @RequestMapping("/web/fe/{sitePrefix}/{language}/document/{id}/{naturalText}")
