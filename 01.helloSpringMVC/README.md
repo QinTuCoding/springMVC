@@ -16,7 +16,19 @@
         return "saved";
     }
 ```
-- @ModelAttribute    从隐含对象中获取隐含的模型数据中获取对象，再将请求参数绑定到对象中，再传入入参将方法入参对象添加到模型中 
+- @ModelAttribute    在put或者get前执行，并返回指定参数或对象。
+```java
+    //在form表单返回之前返回sections对象
+	@ModelAttribute("sections")
+	public List<String> initializeSections() {
+
+		List<String> sections = new ArrayList<String>();
+		sections.add("Graduate");
+		sections.add("Post Graduate");
+		sections.add("Research");
+		return sections;
+	}
+```
 - @RequestParam　    在处理方法入参处使用 @RequestParam 可以把请求参 数传递给请求方法
 - @PathVariable      绑定URL 占位符到入参
 ```java
