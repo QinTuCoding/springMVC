@@ -7,3 +7,4 @@
 
 ##04.[springMVC创建xml,pdf,excel,json视图解析器 根据后缀名解析对应视图](https://github.com/mzkwy/springMVC/tree/master/04.viewResolver)
 
+##05.[springMVC创建RESTFul模式的实例](https://github.com/mzkwy/springMVC/tree/master/05.restFulService)
