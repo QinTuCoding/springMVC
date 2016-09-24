@@ -1,6 +1,9 @@
 DROP DATABASE if exists springmvchibernate;
+
 CREATE DATABASE springmvchibernate default CHARACTER set utf8;
+
 use springmvchibernate;
+
 CREATE TABLE employee(
 	id INT NOT NULL auto_increment, 
 	name VARCHAR(50) NOT NULL,
