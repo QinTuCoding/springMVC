@@ -10,3 +10,5 @@
 ##05.[springMVC创建REST模式的实例](https://github.com/mzkwy/springMVC/tree/master/05.restFulService)
 
 ##06.[springMVC配合AugularJS实现REST模式的CRUD数据交互及表单验证](https://github.com/mzkwy/springMVC/tree/master/06.resuFulCRUD)
+
+##07.[springMVC配合hibernate实现表单验证及数据库增删改查](https://github.com/mzkwy/springMVC/tree/master/07.springMVCHibernateTemp)
