@@ -14,3 +14,5 @@
 ###07.[springMVC配合hibernate实现表单验证及数据库增删改查](https://github.com/mzkwy/springMVC/tree/master/07.springMVCHibernateTemp)
 
 ###08.[springMVC实现hibernate多对多映射规则](https://github.com/mzkwy/springMVC/tree/master/08.hibernateManyToManyCRUD)
+
+###09.[springMVC下载项目内文件和项目外文件](https://github.com/mzkwy/springMVC/new/master/09.springMVCDownTemp)
