@@ -18,3 +18,5 @@
 ###09.[springMVC下载项目内文件和项目外文件](https://github.com/mzkwy/springMVC/new/master/09.springMVCDownTemp)
 
 ###10.[springMVC实现单文件上传和多文件上传](https://github.com/mzkwy/springMVC/tree/master/10.springMVCUploadTemp)
+
+###11.[springMVC配合hibernate返回json对象 使用xml配置](https://github.com/mzkwy/springMVC/tree/master/11.springMVCHibernateXml)
