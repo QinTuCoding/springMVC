@@ -20,3 +20,5 @@
 ###10.[springMVC实现单文件上传和多文件上传](https://github.com/mzkwy/springMVC/tree/master/10.springMVCUploadTemp)
 
 ###11.[springMVC配合hibernate返回json对象 使用xml配置](https://github.com/mzkwy/springMVC/tree/master/11.springMVCHibernateXml)
+
+###12.[springMVC使用hibernateTemplate完成持久化操作 配合BaseDaoImp 封装了常用的操作](https://github.com/mzkwy/springMVC/tree/master/12.springMVCHibernateTemplate)
